@@ -1,2 +1,2 @@
-# isha
-This is my first git repository
+# Isha
+This is my first git repository.
